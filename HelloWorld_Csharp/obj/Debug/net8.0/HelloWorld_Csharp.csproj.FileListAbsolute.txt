@@ -1,0 +1,14 @@
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\bin\Debug\net8.0\HelloWorld_Csharp.exe
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\bin\Debug\net8.0\HelloWorld_Csharp.deps.json
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\bin\Debug\net8.0\HelloWorld_Csharp.runtimeconfig.json
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\bin\Debug\net8.0\HelloWorld_Csharp.dll
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\bin\Debug\net8.0\HelloWorld_Csharp.pdb
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.AssemblyInfoInputs.cache
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.AssemblyInfo.cs
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.csproj.CoreCompileInputs.cache
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.dll
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\refint\HelloWorld_Csharp.dll
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.pdb
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\HelloWorld_Csharp.genruntimeconfig.cache
+D:\Programming\Programming Languages\Csharp\HelloWorld\HelloWorld_Csharp\obj\Debug\net8.0\ref\HelloWorld_Csharp.dll
